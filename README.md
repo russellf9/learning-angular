@@ -67,5 +67,5 @@ Follow [meetups](https://www.meetup.com), if you can't attend, each meetup will 
 
 ## Who to follow
 Use Twitter to keep up to date
-@gerardsans
-@russellf9
+* @gerardsans
+* @russellf9
